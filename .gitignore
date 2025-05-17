@@ -1,0 +1,12 @@
+# 環境変数ファイル（重要！）
+rss-backend/.env
+
+# Node.js 関連
+node_modules/
+
+# OS によって自動生成される不要なファイル
+.DS_Store
+Thumbs.db
+# IDE によって自動生成される不要なファイル
+.idea/
+.vscode/
